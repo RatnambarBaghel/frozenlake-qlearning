@@ -65,7 +65,7 @@ python src/train.py
 
 ## 📸 Output
 
-![Training Graph](results/reward_plot.png)
+![Training Graph](results/rewar_plot.png)
 
 ---
 
